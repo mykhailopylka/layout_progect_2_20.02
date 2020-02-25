@@ -21,11 +21,3 @@
     font-weight: normal;
     font-style: normal;
 }
-
-
-@font-face {
-    font-family: 'wolfgang_amadeus_mozartRg';
-    src: url('wolfgang_amadeus_mozart-webfont.woff2') format('woff2'),
-         url('wolfgang_amadeus_mozart-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
