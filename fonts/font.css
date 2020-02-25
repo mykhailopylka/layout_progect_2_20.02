@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'pacificoregular';
+    src: url('Pacificoregular.woff2') format('woff2'),
+         url('Pacificoregular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('bebasneuebold.woff2') format('woff2'),
+         url('bebasneuebold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'helveticaneuemedium';
+    src: url('helveticaneue_medium-webfont.woff2') format('woff2'),
+         url('helveticaneue_medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'wolfgang_amadeus_mozartRg';
+    src: url('wolfgang_amadeus_mozart-webfont.woff2') format('woff2'),
+         url('wolfgang_amadeus_mozart-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
