@@ -113,18 +113,14 @@ h5 {
 }
 /* hover picture ========================*/
 .wrapper-first_line-picture{
-  position: relative;
-  display: inline-block;
-  overflow: hidden;
-}  
- .wrapper-first_line-picture:hover:after {
-  content:"";
-  position: absolute;
-  left: 50%;
-  top: 50%;
+  display: block;
+  width: 100%;
+  transition: .5s ease-in-out;
+}
+ .wrapper-first_line-picture:hover {
+  -webkit-filter: brightness(40%);
+  filter: brightness(40%);
   cursor: zoom-in;
-  transform: translate(-50%, -50%);
-  box-shadow: 0 0 0 10000px rgba(255,255,255,0.4);
 }
 .wrapper-second_line {
   display: flex;
